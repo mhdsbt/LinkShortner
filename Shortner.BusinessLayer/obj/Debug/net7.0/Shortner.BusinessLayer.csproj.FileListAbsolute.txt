@@ -1,0 +1,15 @@
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/bin/Debug/net7.0/Shortner.BusinessLayer.deps.json
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/bin/Debug/net7.0/Shortner.BusinessLayer.dll
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/bin/Debug/net7.0/Shortner.BusinessLayer.pdb
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.dll
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.pdb
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.csproj.AssemblyReference.cache
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.AssemblyInfoInputs.cache
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.AssemblyInfo.cs
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.csproj.CoreCompileInputs.cache
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.csproj.CopyComplete
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.dll
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/refint/Shortner.BusinessLayer.dll
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/Shortner.BusinessLayer.pdb
+/home/sabet/RiderProjects/Shortner/Shortner.BusinessLayer/obj/Debug/net7.0/ref/Shortner.BusinessLayer.dll

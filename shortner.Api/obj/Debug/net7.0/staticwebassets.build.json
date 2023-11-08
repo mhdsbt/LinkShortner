@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pSWy3bT/o/7n4y9oupB4cmwglzTZkcce9dnXUo4MRRc=",
+  "Source": "shortner.Api",
+  "BasePath": "_content/shortner.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

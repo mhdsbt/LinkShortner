@@ -1,0 +1,14 @@
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.deps.json
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.dll
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.pdb
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.csproj.AssemblyReference.cache
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.AssemblyInfoInputs.cache
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.AssemblyInfo.cs
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.csproj.CoreCompileInputs.cache
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.dll
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/refint/shortner.DataAccessLayer.dll
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.pdb
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/ref/shortner.DataAccessLayer.dll
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.runtimeconfig.json
+/home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.genruntimeconfig.cache
