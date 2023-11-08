@@ -12,3 +12,17 @@
 /home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/ref/shortner.DataAccessLayer.dll
 /home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/bin/Debug/net7.0/shortner.DataAccessLayer.runtimeconfig.json
 /home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/obj/Debug/net7.0/shortner.DataAccessLayer.genruntimeconfig.cache
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\bin\Debug\net7.0\shortner.DataAccessLayer.deps.json
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\bin\Debug\net7.0\shortner.DataAccessLayer.runtimeconfig.json
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\bin\Debug\net7.0\shortner.DataAccessLayer.dll
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\bin\Debug\net7.0\shortner.DataAccessLayer.pdb
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.AssemblyInfo.cs
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.dll
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\refint\shortner.DataAccessLayer.dll
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.pdb
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\shortner.DataAccessLayer.genruntimeconfig.cache
+C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\obj\Debug\net7.0\ref\shortner.DataAccessLayer.dll

@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = shortner.DataAccessLayer
-build_property.ProjectDir = /home/sabet/RiderProjects/Shortner/shortner.DataAccessLayer/
+build_property.ProjectDir = C:\Users\SnappFood.SF-0353\source\repos\Shortner\shortner.DataAccessLayer\
