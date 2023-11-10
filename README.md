@@ -1,4 +1,4 @@
-# Shortner
+# LinkShortner
 
 This project is a URL Shortener implemented in C# using .NET Core. The architecture follows a three-layered structure with clear separation of concerns: shortener.api for the Presentation Layer, shortener.businesslayer for the Business Logic Layer, and shortener.datalayer for the Data Access Layer.
 
